@@ -3,6 +3,8 @@
 
 # Used technologies
 -  JavaScript
+-  HTML
+-  CSS
 
 # Preview
 
